@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zach-Blackwell
 - 👀 I’m interested in software development, network engineering, game design and film.
-- 🌱 I’m currently learning Python3.
+- 🌱 I’m currently learning Python3 and Flutter SDK.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me zach@blackwelltechcompany.com
 
